@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&text=Welcome%20to%20my%20profile!&fontSize=40" />
+</div>
+
 # Hi there! 👋 I'm Suhail
 
 
